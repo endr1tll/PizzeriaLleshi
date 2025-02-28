@@ -1,0 +1,9 @@
+*.apk
+*.ap_
+*.dex
+*.class
+/build/
+/captures/
+.externalNativeBuild
+.cxx
+local.properties/build

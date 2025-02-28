@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045786321793",
+    "project_id": "pizzerialleshi",
+    "storage_bucket": "pizzerialleshi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045786321793:android:9121b13a1c0772fe687e80",
+        "android_client_info": {
+          "package_name": "com.example.pizzerialleshi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPAC1-BATo3xbTL-p6AuiiO15mTcVXqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
