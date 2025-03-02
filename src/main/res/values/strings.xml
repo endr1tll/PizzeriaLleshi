@@ -11,4 +11,6 @@
     <string name="login_failed">"Login failed"</string>
     <string name="app_logo_desc">Pizzeria Lleshi Logo</string>
     <string name="bottom_pizza">Pizza</string>
+    <string name="continue_with_gmail">Or continue with <u>Gmail</u></string>
+    <string name="default_web_client_id">AIzaSyAMPAC1-BATo3xbTL-p6AuiiO15mTcVXqM</string>
 </resources>
